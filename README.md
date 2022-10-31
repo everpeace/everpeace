@@ -46,3 +46,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Featured Posts/Slides
+
+- [最近よく聞くQuorumは過半数(多数決)よりも一般的でパワフルな概念だった](https://qiita.com/everpeace/items/632831371da5ff215995)
+- [CRDT (Conflict-free Replicated Data Type)を15分で説明してみる](https://qiita.com/everpeace/items/bb73ec64d3e682279d26)
+- [確率的データ構造を使って巨大な集合を定数メモリで近似しよう](https://speakerdeck.com/everpeace/que-lu-de-tetagou-zao-woshi-tuteju-da-naji-he-woding-shu-memoritejin-si-siyou)
+- [分散システムの限界について知ろう](https://www.slideshare.net/ShingoOmura/ss-103946354)
