@@ -11,12 +11,15 @@
   <a href="http://qiita.com/everpeace">
     <img height="20" src="https://qiita-badge.apiapi.app/s/everpeace/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
+  <a href="https://qiita.com/everpeace">
     <img height="20" src="https://qiita-badge.apiapi.app/s/everpeace/contributions.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/shingoomura/">
+    <img height="20" src="https://img.shields.io/badge/LinkedIn-shingoomura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
   
-### Shingo OMURA, Distributed Software Archtiect/Engineer
+### 👋Shingo OMURA, Distributed Software Archtiect/Engineer
 
 - 5+ years of experience developing and operating production Kubernetes clusters 
 - Deep understanding of Kubernetes internals and Cloud-Native technologies 
@@ -24,7 +27,10 @@
 - Fundamental knowledge of distributed systems and algorithms 
 - Practical engineering manager experience (team size: 6-10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everpeace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=everpeace&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everpeace&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=everpeace&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
  
 <!--
 **everpeace/everpeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
