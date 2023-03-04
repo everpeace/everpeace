@@ -34,8 +34,8 @@
 - Practical engineering manager experience (team size: 6-10)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-cyan-mu.vercel.app/api/top-langs/?username=everpeace&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-cyan-mu.vercel.app/api?username=everpeace&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-everpeace.vercel.app/api/top-langs/?username=everpeace&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-everpeace.vercel.app/api?username=everpeace&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
  
 <!--
