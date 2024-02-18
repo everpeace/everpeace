@@ -32,6 +32,7 @@
 - Proven ability to architect and operate large-scale web services with 99.9 % SLA Practical knowledge of Public Cloud (AWS and GCP)
 - Fundamental knowledge of distributed systems and algorithms 
 - Practical engineering manager experience (team size: 6-10)
+- Contributes to Kubernetes (mainly sig-scheduling, sig-node)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-everpeace.vercel.app/api/top-langs/?username=everpeace&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
