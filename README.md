@@ -27,7 +27,7 @@
   
 ### 👋Shingo OMURA, Distributed Software Archtiect/Engineer
 
-- 5+ years of experience developing and operating production Kubernetes clusters 
+- 6+ years of experience developing and operating production Kubernetes clusters 
 - Deep understanding of Kubernetes internals and Cloud-Native technologies 
 - Proven ability to architect and operate large-scale web services with 99.9 % SLA Practical knowledge of Public Cloud (AWS and GCP)
 - Fundamental knowledge of distributed systems and algorithms 
