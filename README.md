@@ -6,7 +6,7 @@
     <img height="20" src="https://img.shields.io/github/followers/everpeace?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://twitter.com/everpeace">
-    <img height="20" src="https://img.shields.io/twitter/follow/everpeace?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/everpeace?label=@everpeace&logo=X&style=flat" />
   </a>
   <a rel="me" href="https://hachyderm.io/@everpeace">
     <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109276807439580633?domain=https%3A%2F%2Fhachyderm.io&label=Mastodon&style=social" />
