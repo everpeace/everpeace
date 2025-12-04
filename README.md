@@ -27,12 +27,13 @@
   
 ### 👋Shingo OMURA, Distributed Software Archtiect/Engineer
 
-- 6+ years of experience developing and operating production Kubernetes clusters 
+- 8+ years of experience developing and operating production Kubernetes clusters 
 - Deep understanding of Kubernetes internals and Cloud-Native technologies 
 - Proven ability to architect and operate large-scale web services with 99.9 % SLA Practical knowledge of Public Cloud (AWS and GCP)
 - Fundamental knowledge of distributed systems and algorithms 
 - Practical engineering manager experience (team size: 6-10)
-- Contributes to Kubernetes (mainly sig-scheduling, sig-node)
+- Contributes to Kubernetes (mainly sig-node, wg-device-management, sig-scheduling) 
+  - 🏆 6th CNCF JP Contributor (2024)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-everpeace.vercel.app/api/top-langs/?username=everpeace&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
